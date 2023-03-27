@@ -2,8 +2,8 @@ library(rtweet)
 
 token <- create_token(
   app = "",
-  consumer_key = "K0Ry8umWeuoEYfdlljIJpiiCk",
-  consumer_secret = "MNhf3RqxOqnpxQionU6bYrYpDa8mMstQGzXePDcO3DTwESqVEq",
+  consumer_key = "",
+  consumer_secret = "",
   access_token = "",
   access_secret = "")
 rt <- search_tweets(
